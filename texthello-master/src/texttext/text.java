@@ -10,10 +10,6 @@ public class text {
 		
 		System.out.println("a");
 
-System.out.println("a");
-System.out.println("a");
-System.out.println("a");
-
 
 
 
